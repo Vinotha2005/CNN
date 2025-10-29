@@ -18,6 +18,7 @@ View confidence percentage for each class
 See performance metrics (Accuracy, Precision, Recall, F1-score)
 
 ## Streamlit app : 
+https://cnn-butterflyimageprediction.streamlit.app/
 
 ## 🧠 Model Architecture
 
